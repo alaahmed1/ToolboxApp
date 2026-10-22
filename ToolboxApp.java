@@ -1,5 +1,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
+package ToolboxApp;
 public class ToolboxApp{
     static Scanner scanner = new Scanner (System.in);
 
